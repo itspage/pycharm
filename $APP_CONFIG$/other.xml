@@ -71,7 +71,7 @@
       <map>
         <entry key="$USER_HOME$/.virtualenvs/foodplay/bin/python" value="false" />
         <entry key="$USER_HOME$/.virtualenvs/gallywixapi/bin/python" value="true" />
-        <entry key="$USER_HOME$/.virtualenvs/gallywixapi/bin/python3" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/gallywixapi/bin/python3" value="true" />
         <entry key="$USER_HOME$/.virtualenvs/thrall/bin/python" value="true" />
       </map>
     </option>
