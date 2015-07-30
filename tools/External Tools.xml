@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/multiplay/gallywixapi" />
     </exec>
   </tool>
+  <tool name="semistandard" description="Format to semistandard" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/semistandard" />
+      <option name="PARAMETERS" value="--format $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/multiplay/jastor" />
+    </exec>
+  </tool>
 </toolSet>

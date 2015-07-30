@@ -20,4 +20,7 @@
   <action id="Tool_External Tools_isort">
     <keyboard-shortcut first-keystroke="meta alt I" />
   </action>
+  <action id="Tool_External Tools_semistandard">
+    <keyboard-shortcut first-keystroke="meta alt K" />
+  </action>
 </keymap>
