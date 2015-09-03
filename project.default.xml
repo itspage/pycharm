@@ -18,10 +18,6 @@
         <modules />
       </component>
       <component name="ProjectRootManager" version="2" />
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-      </component>
     </defaultProject>
   </component>
 </application>
