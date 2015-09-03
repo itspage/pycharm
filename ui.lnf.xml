@@ -2,6 +2,5 @@
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="8" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="ANTIALIASING_IN_EDITOR" value="false" />
   </component>
 </application>
