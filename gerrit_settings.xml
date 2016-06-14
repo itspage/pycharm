@@ -1,0 +1,3 @@
+<application>
+  <component name="GerritSettings" Login="alexpa" Host="https://gerrit.multiplay.com:8081" ListAllChanges="false" AutomaticRefresh="false" RefreshTimeout="0" ReviewNotifications="true" PushToGerrit="false" ShowChangeNumberColumn="true" ShowChangeIdColumn="false" />
+</application>
