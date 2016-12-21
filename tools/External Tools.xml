@@ -1,16 +1,9 @@
 <toolSet name="External Tools">
-  <tool name="isort" description="Sort imports in current file" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="isort" description="isort" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/.virtualenvs/gallywixapi/bin/isort" />
-      <option name="PARAMETERS" value="-e -m 0 -w 100 $FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/multiplay/gallywixapi" />
-    </exec>
-  </tool>
-  <tool name="semistandard" description="Format to semistandard" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/usr/local/bin/semistandard" />
-      <option name="PARAMETERS" value="--format $FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/multiplay/jastor" />
+      <option name="COMMAND" value="/usr/local/bin/isort" />
+      <option name="PARAMETERS" value="-y -w 100 -q -e $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
